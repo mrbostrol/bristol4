@@ -17,7 +17,7 @@
             <field name="OBJECT">BLACK</field>
             <next>
               <block type="oled_drawtext" id="6">
-                <field name="TEXT">3453261*778463478</field>
+                <field name="TEXT">3453261*778463478=</field>
               </block>
             </next>
           </block>
